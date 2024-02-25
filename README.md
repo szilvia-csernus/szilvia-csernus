@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Szilvia 😊
 
-I enjoy solving problems and creating efficient solutions, I'm passionate about clean code and seamless user experience!
+Check out my latest projects:
 
 <!--
 **szilvia-csernus/szilvia-csernus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
