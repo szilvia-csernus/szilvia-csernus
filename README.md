@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Szilvia 😊
-
-Check out my latest projects:
+### Hi there 👋
 
 <!--
 **szilvia-csernus/szilvia-csernus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
